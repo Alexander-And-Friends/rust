@@ -1,4 +1,4 @@
-PdMasterKee is a new project. It's, like the name suggests, a Password Database for sites and local desktop applications. 
+PdMasterKee is a new project. It is, like the name suggests, a Password Database for sites and local desktop applications. 
 
 It is made by me and helped by CristianGalusca to be used with my new 
 YubiKey Fido Edition from Yubico.
@@ -8,7 +8,3 @@ and run separately like "WhatsApp Web" with sudo to apply the security provided 
 the operating system with the help of YubiKey.
 
 Simple observation: it does not require any YubiKey.
-
-
-Observation 2: this is new observation, just a text to add a text.
-
